@@ -79,9 +79,6 @@ footer{
     overflow:hidden;
 }
 
-.form-container{
-}
-
-#ghost_form{
-
+input[type="text"]{
+	height: 30px;
 }
